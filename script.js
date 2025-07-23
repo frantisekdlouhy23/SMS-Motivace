@@ -1,1 +1,1 @@
-// JS skript pro manipulaci s formulářem
+// JS funkce zde
